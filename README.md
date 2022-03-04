@@ -20,6 +20,20 @@ https://web-camp.io/magazine/archives/30817#:~:text=%E3%83%AA%E3%82%BB%E3%83%83%
 
 ## ::before、::afterを使いこなせる
 
+#### 参考：
+
+https://www.asobou.co.jp/blog/web/before-after
+
+#### POINT
+
+* beforeは指定した要素内にあるコンテンツの直前に、afterは指定した要素内にあるコンテンツの直後に配置
+** <div>::before コンテンツ::after</div>
+* 要素内にコンテンツが存在しないタグにはbeforeとafterは配置することができません
+* z-indexを指定していない状態だと、beforeとafterは要素の上に配置されます
+
+
+
+
 ## min-width、max-widthを使いこなせる
 ## メディアクエリーの意味を理解して使いこなせる
 ## vw、vhの単位を使いこなせる
