@@ -3,6 +3,21 @@ css関する情報纏め
 
 ## リセットCSS
 
+#### 参考：
+
+https://web-camp.io/magazine/archives/30817#:~:text=%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88CSS%E3%81%A8%E3%81%AF%E3%80%81%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6,CSS%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82
+
+#### 代表的なリセットCSS
+
+* [Eric Meyer’s “Reset CSS” 2.0](https://meyerweb.com/eric/tools/css/reset/)
+* [HTML5 Doctor CSS Reset](http://html5doctor.com/html-5-reset-stylesheet/)
+* [Yahoo! (YUI 3) Reset CSS](https://yuilibrary.com/yui/docs/cssreset/)
+* Universal Selector ‘*’ Reset
+* [Normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css)
+* [ress](https://github.com/filipelinhares/ress)
+* [sanitize.css](https://csstools.github.io/sanitize.css/)
+
+
 ## ::before、::afterを使いこなせる
 
 ## min-width、max-widthを使いこなせる
