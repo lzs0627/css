@@ -32,9 +32,12 @@ https://www.asobou.co.jp/blog/web/before-after
 * z-indexを指定していない状態だと、beforeとafterは要素の上に配置されます
 
 
-
-
 ## min-width、max-widthを使いこなせる
+
+#### 参考：
+
+https://saruwakakun.com/html-css/basic/max-min-width
+
 ## メディアクエリーの意味を理解して使いこなせる
 ## vw、vhの単位を使いこなせる
 ## line-height、letter-spacingを使いこなせる
