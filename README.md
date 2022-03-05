@@ -39,6 +39,26 @@ https://www.asobou.co.jp/blog/web/before-after
 https://saruwakakun.com/html-css/basic/max-min-width
 
 ## メディアクエリーの意味を理解して使いこなせる
+
+#### 参考：
+
+https://wemo.tech/839
+
+#### POINT
+
+- HTMLでCSSファイルを読み込むlinkタグにmedia属性を記述する
+> ＜link rel="stylesheet" href="./css/mobile.css" media="screen and (max-width: 600px)"＞
+- CSS内で@importする
+> @import url('mobile.css') screen and (max-width: 600px);
+- CSS内で@mediaを記述
+
+> @media screen and (max-width: 600px) {
+> 
+>   div{ width: 100%; }
+>   
+> }
+
+
 ## vw、vhの単位を使いこなせる
 ## line-height、letter-spacingを使いこなせる
 ## overflow:hidden、overflow-x、overflow-yを使いこなせる
